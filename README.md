@@ -58,8 +58,6 @@ The goal is to identify churn patterns, understand key drivers of customer attri
 - Churn Rate by Customer Tenure
 - Churn Rate vs Monthly Charges (binned analysis)
 
-![Customer Behavior](Customer_Behavior.png)
-
 ---
 
 ### 4️⃣ High-Risk Customers
@@ -75,27 +73,6 @@ The goal is to identify churn patterns, understand key drivers of customer attri
 - Provides actionable business strategies to reduce churn
 
 ![Insights & Recommendations](Insights_&_Recommendations.png)
-
----
-
-## 🔍 Key Insights
-- Customers on **month-to-month contracts** have the highest churn rate
-- **Churn is highest during the first 12 months** of customer tenure
-- Customers with **higher monthly charges** are more likely to churn
-- Internet service users contribute significantly to overall churn
-
----
-
-## 💡 Business Recommendations
-- Encourage customers to shift from **month-to-month to long-term contracts** using discounts
-- Improve **onboarding and engagement** during the first year of service
-- Offer **bundled plans or loyalty benefits** to customers with high monthly charges
-- Proactively target **high-risk customers** identified in the dashboard
-
----
-
-## 📈 Business Impact
-Implementing these recommendations can help reduce customer churn, improve customer retention, and increase long-term customer lifetime value.
 
 ---
 
